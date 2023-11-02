@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>938256881086-26p9gstvj0lv896jj6tusu1fdu4m7uk1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.938256881086-26p9gstvj0lv896jj6tusu1fdu4m7uk1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQli_3CUy-IqF9IN2MBaUP-z3ZMSjwwP4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>938256881086</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.maryland.cmsc436.spring2023.openTok</string>
+	<key>PROJECT_ID</key>
+	<string>opentok-nbez</string>
+	<key>STORAGE_BUCKET</key>
+	<string>opentok-nbez.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:938256881086:ios:7f070311e2209b38fdd5ef</string>
+</dict>
+</plist>
